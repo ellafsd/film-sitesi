@@ -3,14 +3,22 @@
 This is a simple movie website project built using HTML, CSS, and JavaScript. The site features a dark and light mode toggle, a movie list slider, and a category dropdown. It provides an interactive UI to display movie listings with categories like "Popular," "Trending," and "New Releases."
 
 ## 📸 Screenshots
+
 ### 🔆 Light Mode
-![](ekran_goruntusu/fs1.png)
+![](Ekran%20Goruntusu/fs1.png)
 
 ### 🌙 Dark Mode
-![](ekran_goruntusu/fs2.png)
+![](Ekran%20Goruntusu/fs2.png)
 
 ### 🎬 Movie List
-![](ekran_goruntusu/fs3.png)
+![](Ekran%20Goruntusu/fs3.png)
+
+### 🎭 Dropdown Menu
+![](Ekran%20Goruntusu/fs4.png)
+
+### 🎥 Additional Screenshot
+![](Ekran%20Goruntusu/fs5.png)
+
 
 
 ## Features
