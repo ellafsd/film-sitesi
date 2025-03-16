@@ -13,12 +13,6 @@ This is a simple movie website project built using HTML, CSS, and JavaScript. Th
 ### 🎬 Movie List
 ![](Ekran%20Goruntusu/fs3.png)
 
-### 🎭 Dropdown Menu
-![](Ekran%20Goruntusu/fs4.png)
-
-### 🎥 Additional Screenshot
-![](Ekran%20Goruntusu/fs5.png)
-
 
 
 ## Features
