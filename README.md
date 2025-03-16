@@ -3,10 +3,12 @@ This is a simple movie website project built using HTML, CSS, and JavaScript. Th
 
 
 ## 📸 Screenshots
+### Homepage
 ![Homepage](img/body.png)
+### Light Mode
 ![Light mode](img/lightMode.png)
+### Dark Mode
 ![Dark mode](img/darkMode.png)
-
 
 
 ## Features
